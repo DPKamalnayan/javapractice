@@ -1,0 +1,58 @@
+   https://www.geeksforgeeks.org/java-programming-examples/
+   
+    Java Basic Programs
+
+    Java Program to Read The Number From Standard Input    
+    Java Program to Get Input from the User
+    Java Program to Multiply Two Floating-Point Numbers
+    Java Program to Swap Two Numbers
+    Java Program to Add Two Binary Strings
+    Java Program to Add Two Complex numbers
+    Java Program to Check Even or Odd Integers
+    Java Program to Find Largest Among 3 Numbers
+    Java Program to Find LCM of 2 numbers
+    Java Program to Find GCD or HCF of 2 numbers
+    Java Program to Display All Prime Numbers from 1 to N
+    Java Program to Check Leap Year
+    Java Program to Check Armstrong Number between Two Integers
+    Java Program to Check whether the input number is a Neon Number
+    Java Program to Check whether input character is vowel or consonant
+    Java Program to Find Factorial of a number
+    Java Program to Find Even Sum of Fibonacci Series Till number N
+    Java Program to Calculate Simple Interest
+    Java Program to Calculate Compound Interest
+    Java Program to Find the Perimeter of a Rectangle
+
+    Java File Programs
+
+    Java Program to Create a new file
+    Java Program to Create a temporary file
+    Java Program to Write into a file
+    Java Program to Rename a file in java
+    Java Program to Make a File Read-Only
+    Java Program to Compare Paths of Two files
+    Java Program to Copy one file into another file
+    Java Program to Print all the Pattern that Matches Given Pattern From a File
+    Java Program to Append a String in an Existing File
+    Java Program to Read content from one file and writing it into another file
+    Java Program to Read and printing all files from a zip file
+
+
+    Java Pattern Programs
+
+    Java Program to Print Right Triangle Star Pattern
+    Java Program to Print Left Triangle Star Pattern
+    Java Program to Print Pyramid Star Pattern
+    Java Program to Print Reverse Pyramid Star Pattern
+    Java Program to Print Upper Star Triangle Pattern
+    Java Program to Print Mirror Upper Star Triangle Pattern
+    Java Program to Print Downward Triangle Star Pattern
+    Java Program to Print Mirror Lower Star Triangle Pattern
+    Java Program to Print Star Pascal’s Triangle
+    Java Program to Print Diamond Star Pattern
+    Java Program to Print Square Star Pattern
+    Java Program to Print Pyramid Star Pattern
+    Java Program to Print Spiral Pattern of Numbers
+
+
+
